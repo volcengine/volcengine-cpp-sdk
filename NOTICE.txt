@@ -1,0 +1,2 @@
+Volcengine SDK for C++
+Copyright 2023 Beijing Volcanoengine Technology Ltd.  All Rights Reserved.
