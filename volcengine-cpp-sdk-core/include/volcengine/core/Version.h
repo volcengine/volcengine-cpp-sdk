@@ -16,6 +16,6 @@
 #ifndef VOLCENGINE_VERSION_H_
 #define VOLCENGINE_VERSION_H_
 namespace volcengine {
-    static const char* VOLCENGINE_SDK_VERSION = "0.1.1";
+    static const char* VOLCENGINE_SDK_VERSION = "0.1.2";
 }
 #endif // !VOLCENGINE_VERSION_H_
